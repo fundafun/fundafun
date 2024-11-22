@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 creating bugs since 2020<br>📚 i'm currently learning javaFX graphics<br>🎲 i love mario kart</p>
+<p align="left">👾 creating bugs since 2020<br>📚 i'm currently learning javaFX graphics<br>🎲 i love mario kart & historical fiction books</p>
 
 ###
 
