@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">electrical & computer engineer, 3D designer, software developer</p>
+<p align="left">electrical & computer engineer, 3D designer, software developer, strategical board-game enthusiast</p>
 
 ###
 
