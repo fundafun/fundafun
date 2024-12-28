@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">electrical & computer engineer, 3D designer, software developer, strategical board-game enthusiast</p>
+<p align="left">electrical & computer engineer, 3D designer, software developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 creating bugs since 2020<br>📚 i'm currently learning javaFX graphics<br>🎲 i love mario kart & historical fiction books</p>
+<p align="left">👾 creating bugs since 2020<br>📚 i'm currently learning javaFX graphics<br>🎲 i love mario kart</p>
 
 ###
 
@@ -41,6 +41,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fundafun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fundafun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fundafun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
