@@ -14,14 +14,6 @@
 
 ###
 
-<h2 align="left">commonly used languages:</h2>
-
-###
-
-<p align="left">java , javascript , C , python , html , C++</p>
-
-###
-
 <h2 align="left">i experiment with...</h2>
 
 ###
