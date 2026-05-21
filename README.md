@@ -1,5 +1,5 @@
 # hello there 👋
-<br>🎓 ECE student  <br>🤖 Looking to collaborate on VEX Robotics & engineering projects  <br>🔧 Love working with Arduinos, Raspberry Pis, microchips, and embedded systems  <br>🌱 Learning more about hardware/software integration & automation  <br>💬 Ask me about robotics, coding, or building cool thing<br>
+<br>🎓 ece student  <br>🤖 looking to collaborate on VEX robotics & engineering projects  <br>🔧 Love working with arduinos, raspberry pis, microchips, and embedded systems  <br>🌱 learning more about kotlin and hardware/software integration/automation  <br>💬 ask me about robotics, coding, or building cool things<br>
 
 
 # 💻 tech stack:
